@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Debug application",
+      "attention": true,
+      "tech": "Harsh Rai",
+      "date": "2021-09-20T06:46:30.563Z",
+      "id": 2
+    },
+    {
+      "message": "Repair CPU",
+      "attention": false,
+      "tech": "Suresh kumar",
+      "date": "2021-09-20T06:47:51.033Z",
+      "id": 3
+    },
+    {
+      "message": "repair tv",
+      "attention": true,
+      "tech": "Suresh kumar",
+      "date": "2021-09-22T09:32:39.561Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Harsh",
+      "lastName": "Rai",
+      "id": 1
+    },
+    {
+      "firstName": "Suresh",
+      "lastName": "kumar",
+      "id": 2
+    },
+    {
+      "firstName": "ramesh",
+      "lastName": "dev",
+      "id": 3
+    },
+    {
+      "firstName": "aditya",
+      "lastName": "jhbasd",
+      "id": 4
+    }
+  ]
+}
